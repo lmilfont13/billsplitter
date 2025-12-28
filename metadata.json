@@ -1,0 +1,8 @@
+{
+  "name": "BillSplitter",
+  "description": "Escaneie recibos, divida contas com amigos e acerte dívidas facilmente usando IA.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
